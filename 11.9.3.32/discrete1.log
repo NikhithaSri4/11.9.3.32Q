@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.11)  21 FEB 2024 13:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.11)  22 FEB 2024 11:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1300,16 +1300,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
  <./figs/f1.png> <./figs/ap.png>] [2
 
  <./figs/gp.png>] (./discrete1.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `discrete1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  42473 strings out of 478287
  987574 string characters out of 5849289
- 1499102 words of memory out of 5000000
+ 1499261 words of memory out of 5000000
  59979 multiletter control sequences out of 15000+600000
  541716 words of font info for 175 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -1322,7 +1319,7 @@ fonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on discrete1.pdf (2 pages, 90334 bytes).
+Output written on discrete1.pdf (2 pages, 91138 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream

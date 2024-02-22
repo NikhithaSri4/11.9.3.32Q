@@ -12,7 +12,7 @@ int main() {
     }
     
     double x0 = 8 + sqrt(39);
-    double d = 8 - sqrt(39);
+    double d =  -2*sqrt(39);
     
     for (int n = -5; n <= 10; n++) {
         double xn = (x0 + n * d) * (n >= 0);
