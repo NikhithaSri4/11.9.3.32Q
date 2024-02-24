@@ -143,17 +143,20 @@ x_1 + x_2 &= 16 \\
 
 For AP, 
 \begin{align}
+x\brak{0} &= 8+\sqrt{39} \\
+d &= -2\sqrt{39} \\
 x\brak{n} &= \brak{8+\sqrt{39} + n\brak{-2\sqrt{39}}}u\brak{n} \\
-X\brak{z} &= \frac{8+\sqrt{39}}{1 - z^{-1}} + \frac{\brak{-2\sqrt{39}}\cdot z^{-1}}{\brak{1 - z^{-1}}^2}  \quad |z| > 1 \\
-\implies X\brak{z} &= \frac{8+\sqrt{39}-\brak{8+3\sqrt{39}}\cdot{z^{-1}}}{\brak{1 - z^{-1}}^2} \quad |z| > 1
+X\brak{z} &= \frac{8+\sqrt{39}}{1 - z^{-1}} + \frac{\brak{-2\sqrt{39}}\cdot z^{-1}}{\brak{1 - z^{-1}}^2}  \quad \abs{z} > \abs{1} \\
+\implies X\brak{z} &= \frac{8+\sqrt{39}-\brak{8+3\sqrt{39}}\cdot{z^{-1}}}{\brak{1 - z^{-1}}^2} \quad \abs{z} > \abs{1}
 \end{align}
 
 For GP,
 \begin{align}
+x\brak{0} &= 8+\sqrt{39} \\
+r &= \frac{8-\sqrt{39}}{8+\sqrt{39}} \\
 x\brak{n} &= \brak{\brak{8+\sqrt{39}}\cdot {\brak{\frac{8-\sqrt{39}}{8+\sqrt{39}}}}^{n}}u\brak{n} \\
-X\brak{z} &= \frac{8+\sqrt{39}}{1-\frac{\brak{8-\sqrt{39}}z^{-1}}{8+\sqrt{39}}} \quad |z| > \frac{103-16\sqrt{39}}{25}
+X\brak{z} &= \frac{8+\sqrt{39}}{1-\frac{\brak{8-\sqrt{39}}z^{-1}}{8+\sqrt{39}}} \quad \abs{z} > \frac{103-16\sqrt{39}}{25}
 \end{align}
-
 
 \begin{figure}[h!]
     \centering
